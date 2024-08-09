@@ -1,0 +1,5 @@
+﻿  DeTai8.cpp
+C:\Users\Asus\OneDrive\Máy tính\Nhom14_SuVoNhuAnh_CK_CTDLGT\8_QuanLyNhapXuatTaiKhoHang\DeTai8.cpp(965): warning C4715: 'timNhapVao': not all control paths return a value
+C:\Users\Asus\OneDrive\Máy tính\Nhom14_SuVoNhuAnh_CK_CTDLGT\8_QuanLyNhapXuatTaiKhoHang\DeTai8.cpp(991): warning C4715: 'timKhoTrong': not all control paths return a value
+C:\Users\Asus\OneDrive\Máy tính\Nhom14_SuVoNhuAnh_CK_CTDLGT\8_QuanLyNhapXuatTaiKhoHang\DeTai8.cpp(1008): warning C4715: 'timKhoHangTheoLoai': not all control paths return a value
+  8_QuanLyNhapXuatTaiKhoHang.vcxproj -> C:\Users\Asus\OneDrive\Máy tính\Nhom14_SuVoNhuAnh_CK_CTDLGT\Debug\8_QuanLyNhapXuatTaiKhoHang.exe
